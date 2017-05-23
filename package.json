@@ -32,7 +32,7 @@
     "gulp-sourcemaps": "^2.1.1",
     "gulp-tslint": "^8.0.0",
     "gulp-typescript": "^3.1.4",
-    "gulp-uglify": "^2.0.0",
+    "gulp-uglify": "^3.0.0",
     "run-sequence": "^1.2.2",
     "tslint": "5.3.2",
     "typescript": "^2.0.3",
