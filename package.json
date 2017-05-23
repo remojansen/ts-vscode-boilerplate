@@ -24,7 +24,7 @@
     "@types/jquery": "^2.0.33",
     "@types/mocha": "^2.2.32",
     "browser-sync": "^2.17.3",
-    "browserify": "^14.0.0",
+    "browserify": "^14.3.0",
     "chai": "^3.5.0",
     "gulp": "^3.9.1",
     "gulp-istanbul": "^1.1.1",
